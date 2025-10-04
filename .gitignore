@@ -3,7 +3,7 @@
 
 
 # Ignore NetBeans config in any project
-**/nb-configuration.xml
+/nb-configuration.xml
 
 # Ignore persistence and beans config
 **/src/main/resources/META-INF/persistence.xml
@@ -12,3 +12,4 @@
 # Ignore auto-generated JakartaEE files
 **/JakartaRestConfiguration.java
 **/JakartaEE10Resource.java
+
