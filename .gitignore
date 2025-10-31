@@ -12,3 +12,5 @@
 # Ignore auto-generated JakartaEE files
 **/JakartaRestConfiguration.java
 **/JakartaEE10Resource.java
+/JPA EJB Servlet practise/EmployeeDepartment/target/
+/JPA EJB Servlet practise/SendingMessageWeb/target/
